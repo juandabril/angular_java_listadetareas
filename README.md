@@ -58,7 +58,5 @@ This project is licensed under the [MIT License](LICENSE). You can freely use, m
 
 ## Contact
 
-If you have any questions or need further assistance, please contact [Your Name](mailto:juanchoabril@gmail.com).
-
-Enjoy building and exploring the Spring Boot and Angular integration with a time variable HTML component project!
+If you have any questions or need further assistance, please contact [Juan David Abril](mailto:juanchoabril@gmail.com).
 
